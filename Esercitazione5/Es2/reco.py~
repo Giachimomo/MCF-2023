@@ -1,0 +1,11 @@
+import pandas as pd
+import numpy as np
+class hit:
+    def __init__(self,a,b,c):
+        risultato=np.empty[0]
+        self.modulo=risultato.append(a)
+        self.sensore=risultato.append(b)
+        self.tempo=risultato.append(c)
+        return risultato
+    
+        

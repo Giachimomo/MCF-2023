@@ -1,0 +1,10 @@
+def somma(n):
+    risultato=0
+    for i<=n:
+        risultato=risultato+i
+    return risultato
+def radici(n):
+    risultato=0
+    for i<=n:
+        risultato=risultato+i**(0.5)
+    return risultato
